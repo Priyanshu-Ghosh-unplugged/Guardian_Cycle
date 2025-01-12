@@ -43,4 +43,7 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+    <string name="tracking">Live Location Tracking</string>
+    <string name="location_tracking">Tracking live location...</string>
+    <string name="tracking_stop">Stop Tracking</string>
 </resources>
