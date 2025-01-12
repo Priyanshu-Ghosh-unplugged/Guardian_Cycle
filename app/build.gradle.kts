@@ -57,6 +57,7 @@ dependencies {
     implementation(libs.androidx.preference.ktx)
     implementation(libs.filament.android)
     implementation(libs.androidx.ui.desktop)
+    implementation(libs.androidx.preference)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
